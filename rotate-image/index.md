@@ -3,7 +3,7 @@ tags: Medium Problems, Array
 
 ## 题目
 原题页面：<https://leetcode.com/problems/rotate-image/><br/>
-本文地址：<<leetcode-with-python-domain>/rotate-image/><br/>
+本文地址：<http://leetcode.xnerv.wang/rotate-image/><br/>
 题目类型：Array<br/>
 难度评价：Medium<br/>
 

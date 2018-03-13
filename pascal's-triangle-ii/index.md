@@ -3,7 +3,7 @@ tags: Easy Problems, Array
 
 ## 题目
 原题页面：<https://leetcode.com/problems/pascals-triangle-ii/><br/>
-本文地址：<<leetcode-with-python-domain>/pascals-triangle-ii/><br/>
+本文地址：<http://leetcode.xnerv.wang/pascals-triangle-ii/><br/>
 题目类型：Array<br/>
 难度评价：Easy<br/>
 类似题目：[(E) Pascal's Triangle](/pascals-triangle/)<br/>

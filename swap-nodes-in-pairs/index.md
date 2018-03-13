@@ -3,7 +3,7 @@ tags: Medium Problems, Linked List
 
 ## 题目
 原题页面：<https://leetcode.com/problems/swap-nodes-in-pairs/><br/>
-本文地址：<<leetcode-with-python-domain>/swap-nodes-in-pairs/><br/>
+本文地址：<http://leetcode.xnerv.wang/swap-nodes-in-pairs/><br/>
 题目类型：Medium<br/>
 难度评价：Linked List<br/>
 类似题目：[(H) Reverse Nodes in k-Group](/reverse-nodes-in-k-group/)<br/>

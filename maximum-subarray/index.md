@@ -3,7 +3,7 @@ tags: Medium Problems, Divide and Conquer, Array, Dynamic Programming
 
 ## 题目
 原题页面：<https://leetcode.com/problems/maximum-subarray/><br/>
-本文地址：<<leetcode-with-python-domain>/maximum-subarray/><br/>
+本文地址：<http://leetcode.xnerv.wang/maximum-subarray/><br/>
 题目类型：Divide and Conquer, Array, Dynamic Programming<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Best Time to Buy and Sell Stock](/best-time-to-buy-and-sell-stock/), [(M) Maximum Product Subarray](/maximum-product-subarray/)<br/>

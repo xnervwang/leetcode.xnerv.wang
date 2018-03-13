@@ -3,7 +3,7 @@ tags: Hard Problems, Divide and Conquer, Array, Binary Search, todo
 
 ## 题目
 原题页面：<https://leetcode.com/problems/median-of-two-sorted-arrays/><br/>
-本文地址：<<leetcode-with-python-domain>/median-of-two-sorted-arrays/><br/>
+本文地址：<http://leetcode.xnerv.wang/median-of-two-sorted-arrays/><br/>
 题目类型：Divide and Conquer, Array, Binary Search<br/>
 难度评价：Hard<br/>
 

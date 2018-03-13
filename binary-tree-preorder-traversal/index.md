@@ -3,7 +3,7 @@ tags: Medium Problems, Tree, Stack
 
 ## 题目
 原题页面：<https://leetcode.com/problems/binary-tree-preorder-traversal/><br/>
-本文地址：<<leetcode-with-python-domain>/binary-tree-preorder-traversal/><br/>
+本文地址：<http://leetcode.xnerv.wang/binary-tree-preorder-traversal/><br/>
 题目类型：Tree, Stack<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Binary Tree Inorder Traversal](/binary-tree-inorder-traversal/), [(M) Verify Preorder Sequence in Binary Search Tree](/verify-preorder-sequence-in-binary-search-tree/)<br/>

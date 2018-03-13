@@ -3,7 +3,7 @@ tags: Medium Problems, Tree, Depth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/validate-binary-search-tree/><br/>
-本文地址：<<leetcode-with-python-domain>/validate-binary-search-tree/><br/>
+本文地址：<http://leetcode.xnerv.wang/validate-binary-search-tree/><br/>
 题目类型：Medium<br/>
 难度评价：Tree, Depth-first Search<br/>
 类似题目：[(M) Binary Tree Inorder Traversal](/binary-tree-inorder-traversal/)<br/>

@@ -3,7 +3,7 @@ tags: Hard Problems, Array, Stack, Two Pointers
 
 ## 题目
 原题页面：<https://leetcode.com/problems/trapping-rain-water/><br/>
-本文地址：<<leetcode-with-python-domain>/trapping-rain-water/><br/>
+本文地址：<http://leetcode.xnerv.wang/trapping-rain-water/><br/>
 题目类型：Array, Stack, Two Pointers<br/>
 难度评价：Hard<br/>
 类似题目：[(M) Container With Most Water](/container-with-most-water/), [(M) Product of Array Except Self](/product-of-array-except-self/)<br/>

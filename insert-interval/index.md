@@ -3,7 +3,7 @@ tags: Hard Problems, Array, Sort
 
 ## 题目
 原题页面：<https://leetcode.com/problems/insert-interval/><br/>
-本文地址：<<leetcode-with-python-domain>/insert-interval/><br/>
+本文地址：<http://leetcode.xnerv.wang/insert-interval/><br/>
 题目类型：Array, Sort<br/>
 难度评价：Hard<br/>
 类似题目：[(H) Merge Intervals](/merge-intervals/)<br/>

@@ -3,7 +3,7 @@ tags: Medium Problems, Linked List
 
 ## 题目
 原题页面：<https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/><br/>
-本文地址：<<leetcode-with-python-domain>/remove-duplicates-from-sorted-list-ii/><br/>
+本文地址：<http://leetcode.xnerv.wang/remove-duplicates-from-sorted-list-ii/><br/>
 题目类型：Linked List<br/>
 难度评价：Medium<br/>
 

@@ -3,7 +3,7 @@ tags: Easy Problems, Linked List
 
 ## 题目
 原题页面：<https://leetcode.com/problems/merge-two-sorted-lists/><br/>
-本文地址：<<leetcode-with-python-domain>/merge-two-sorted-lists/><br/>
+本文地址：<http://leetcode.xnerv.wang/merge-two-sorted-lists/><br/>
 题目类型：Linked List<br/>
 难度评价：Easy<br/>
 类似题目：[(H) Merge k Sorted Lists](/merge-k-sorted-lists/), [(E) Merge Sorted Array](/merge-sorted-array/), [(M) Sort List](/sort-list/), [(M) Shortest Word Distance II](/shortest-word-distance-ii/)<br/>

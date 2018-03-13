@@ -3,7 +3,7 @@ tags: Medium Problems, Linked List
 
 ## 题目
 原题页面：<https://leetcode.com/problems/reorder-list/><br/>
-本文地址：<<leetcode-with-python-domain>/reorder-list/><br/>
+本文地址：<http://leetcode.xnerv.wang/reorder-list/><br/>
 题目类型：Linked List<br/>
 难度评价：Medium<br/>
 

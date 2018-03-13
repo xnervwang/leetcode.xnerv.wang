@@ -3,7 +3,7 @@ tags: Easy Problems, Tree, Depth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/same-tree/><br/>
-本文地址：<<leetcode-with-python-domain>/same-tree/><br/>
+本文地址：<http://leetcode.xnerv.wang/same-tree/><br/>
 题目类型：Easy<br/>
 难度评价：Tree, Depth-first Search<br/>
 

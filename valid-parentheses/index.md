@@ -3,7 +3,7 @@ tags: Easy Problems, Stack, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/valid-parentheses/><br/>
-本文地址：<<leetcode-with-python-domain>/valid-parentheses/><br/>
+本文地址：<http://leetcode.xnerv.wang/valid-parentheses/><br/>
 题目类型：Stack, String<br/>
 难度评价：Easy<br/>
 类似题目：[(M) Generate Parentheses](/generate-parentheses/), [(H) Longest Valid Parentheses](/longest-valid-parentheses/)<br/>

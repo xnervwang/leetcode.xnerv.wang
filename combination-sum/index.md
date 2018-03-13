@@ -3,7 +3,7 @@ tags: Medium Problems, Array, Backtracking
 
 ## 题目
 原题页面：<https://leetcode.com/problems/combination-sum/><br/>
-本文地址：<<leetcode-with-python-domain>/combination-sum/><br/>
+本文地址：<http://leetcode.xnerv.wang/combination-sum/><br/>
 题目类型：Array, Backtracking<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Letter Combinations of a Phone Number](/letter-combinations-of-a-phone-number/), [(M) Combination Sum II](/combination-sum-ii/), [(M) Combinations](/combinations/), [(M) Combination Sum III](/combination-sum-iii/), [(M) Factor Combinations](/factor-combinations/)<br/>

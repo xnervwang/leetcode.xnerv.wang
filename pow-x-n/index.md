@@ -3,7 +3,7 @@ tags: Medium Problems, Math, Binary Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/powx-n/><br/>
-本文地址：<<leetcode-with-python-domain>/powx-n/><br/>
+本文地址：<http://leetcode.xnerv.wang/powx-n/><br/>
 题目类型：Math, Binary Search<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Sqrt(x)](/sqrtx/)<br/>

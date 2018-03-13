@@ -3,7 +3,7 @@ tags: Medium Problems, Array, Hash Table
 
 ## 题目
 原题页面：<https://leetcode.com/problems/two-sum/><br/>
-本文地址：<<leetcode-with-python-domain>/two-sum/><br/>
+本文地址：<http://leetcode.xnerv.wang/two-sum/><br/>
 题目类型：Array, Hash Table<br/>
 难度评价：Medium<br/>
 类似题目：[(M) 3Sum](/3sum/), [(M) 4Sum](/4sum/), [(M) Two Sum II - Input array is sorted](/two-sum-ii-input-array-is-sorted/), [(E) Two Sum III - Data structure design](/two-sum-iii-data-structure-design/)<br/>

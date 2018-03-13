@@ -3,7 +3,7 @@ tags: Hard Problems, Greedy
 
 ## 题目
 原题页面：<https://leetcode.com/problems/candy/><br/>
-本文地址：<<leetcode-with-python-domain>/candy/><br/>
+本文地址：<http://leetcode.xnerv.wang/candy/><br/>
 题目类型：Greedy<br/>
 难度评价：Hard<br/>
 

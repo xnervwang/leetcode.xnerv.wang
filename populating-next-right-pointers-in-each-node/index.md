@@ -3,7 +3,7 @@ tags: Medium Problems, Tree, Depth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/populating-next-right-pointers-in-each-node/><br/>
-本文地址：<<leetcode-with-python-domain>/populating-next-right-pointers-in-each-node/><br/>
+本文地址：<http://leetcode.xnerv.wang/populating-next-right-pointers-in-each-node/><br/>
 题目类型：Tree, Depth-first SearchTwo Pointers<br/>
 难度评价：Medium<br/>
 类似题目：[(H) Populating Next Right Pointers in Each II Node](/populating-next-right-pointers-in-each-node-ii/), [(M) Binary Tree Right Side View](/binary-tree-right-side-view/)<br/>

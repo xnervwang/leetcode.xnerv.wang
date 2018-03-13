@@ -3,7 +3,7 @@ tags: Medium Problems, Hash Table, Bit Manipulation
 
 ## 题目
 原题页面：<https://leetcode.com/problems/single-number/><br/>
-本文地址：<<leetcode-with-python-domain>/single-number/><br/>
+本文地址：<http://leetcode.xnerv.wang/single-number/><br/>
 题目类型：Medium<br/>
 难度评价：Hash Table, Bit Manipulation<br/>
 类似题目：[(M) Single Number II](/single-number-ii/), [(M) Single Number III](/single-number-iii/), [(M) Missing Number](/missing-number/), [(H) Find the Duplicate Number](/find-the-duplicate-number/)<br/>

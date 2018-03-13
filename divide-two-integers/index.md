@@ -3,7 +3,7 @@ tags: Medium Problems, Math, Binary Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/divide-two-integers/><br/>
-本文地址：<<leetcode-with-python-domain>/divide-two-integers/><br/>
+本文地址：<http://leetcode.xnerv.wang/divide-two-integers/><br/>
 题目类型：Math, Binary Search<br/>
 难度评价：Medium<br/>
 

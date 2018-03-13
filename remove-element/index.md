@@ -3,7 +3,7 @@ tags: Easy Problems, Array, Two Pointers
 
 ## 题目
 原题页面：<https://leetcode.com/problems/remove-element/><br/>
-本文地址：<<leetcode-with-python-domain>/remove-element/><br/>
+本文地址：<http://leetcode.xnerv.wang/remove-element/><br/>
 题目类型：Array, Two Pointers<br/>
 难度评价：Easy<br/>
 类似题目：[(E) Remove Linked List Elements](/remove-linked-list-elements/), [(E) Move Zeroes](/move-zeroes/)<br/>

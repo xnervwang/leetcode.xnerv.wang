@@ -3,7 +3,7 @@ tags: Medium Problems, Linked List, Sort
 
 ## 题目
 原题页面：<https://leetcode.com/problems/insertion-sort-list/><br/>
-本文地址：<<leetcode-with-python-domain>/insertion-sort-list/><br/>
+本文地址：<http://leetcode.xnerv.wang/insertion-sort-list/><br/>
 题目类型：Linked List, Sort<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Sort List](/sort-list/)<br/>

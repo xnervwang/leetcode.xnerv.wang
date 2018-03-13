@@ -3,7 +3,7 @@ tags: Hard Problems, Array
 
 ## 题目
 原题页面：<https://leetcode.com/problems/longest-consecutive-sequence/><br/>
-本文地址：<<leetcode-with-python-domain>/longest-consecutive-sequence/><br/>
+本文地址：<http://leetcode.xnerv.wang/longest-consecutive-sequence/><br/>
 题目类型：Array<br/>
 难度评价：Hard<br/>
 

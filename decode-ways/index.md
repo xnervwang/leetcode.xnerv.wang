@@ -3,7 +3,7 @@ tags: Medium Problems, Dynamic Programming, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/decode-ways/><br/>
-本文地址：<<leetcode-with-python-domain>/decode-ways/><br/>
+本文地址：<http://leetcode.xnerv.wang/decode-ways/><br/>
 题目类型：Dynamic Programming, String<br/>
 难度评价：Medium<br/>
 

@@ -3,7 +3,7 @@ tags: Hard Problems, Design
 
 ## 题目
 原题页面：<https://leetcode.com/problems/lru-cache/><br/>
-本文地址：<<leetcode-with-python-domain>/lru-cache/><br/>
+本文地址：<http://leetcode.xnerv.wang/lru-cache/><br/>
 题目类型：Design<br/>
 难度评价：Hard<br/>
 

@@ -3,7 +3,7 @@ tags: Medium Problems, Array, Greedy
 
 ## 题目
 原题页面：<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/><br/>
-本文地址：<<leetcode-with-python-domain>/best-time-to-buy-and-sell-stock-ii/><br/>
+本文地址：<http://leetcode.xnerv.wang/best-time-to-buy-and-sell-stock-ii/><br/>
 题目类型：Array, Greedy<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Best Time to Buy and Sell Stock](/best-time-to-buy-and-sell-stock/), [(H) Best Time to Buy and Sell Stock III](/best-time-to-buy-and-sell-stock-iii/), [(H) Best Time to Buy and Sell Stock IV](/best-time-to-buy-and-sell-stock-iv/)<br/>

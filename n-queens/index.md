@@ -3,7 +3,7 @@ tags: Hard Problems, Backtracking
 
 ## 题目
 原题页面：<https://oj.leetcode.com/problems/n-queens/><br/>
-本文地址：<<leetcode-with-python-domain>/n-queens/><br/>
+本文地址：<http://leetcode.xnerv.wang/n-queens/><br/>
 题目类型：Backtracking<br/>
 难度评价：Hard<br/>
 类似题目：[(H) N-Queens II](/n-queens-ii/)<br/>

@@ -3,7 +3,7 @@ tags: Easy Problems, Math
 
 ## 题目
 原题页面：<https://leetcode.com/problems/reverse-integer/><br/>
-本文地址：<<leetcode-with-python-domain>/reverse-integer/><br/>
+本文地址：<http://leetcode.xnerv.wang/reverse-integer/><br/>
 题目类型：Math<br/>
 难度评价：Easy<br/>
 类似题目：[(E) String to Integer (atoi)](/string-to-integer-atoi/)<br/>

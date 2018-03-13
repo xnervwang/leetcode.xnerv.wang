@@ -3,7 +3,7 @@ tags: Easy Problems, Tree, Depth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/maximum-depth-of-binary-tree/><br/>
-本文地址：<<leetcode-with-python-domain>/maximum-depth-of-binary-tree/><br/>
+本文地址：<http://leetcode.xnerv.wang/maximum-depth-of-binary-tree/><br/>
 题目类型：Tree, Depth-first Search<br/>
 难度评价：Easy<br/>
 类似题目：[(E) Balanced Binary Tree](/balanced-binary-tree/), [(E) Minimum Depth of Binary Tree](/minimum-depth-of-binary-tree/)<br/>

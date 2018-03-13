@@ -3,7 +3,7 @@ tags: Medium Problems, Backtracking, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/restore-ip-addresses/><br/>
-本文地址：<<leetcode-with-python-domain>/restore-ip-addresses/><br/>
+本文地址：<http://leetcode.xnerv.wang/restore-ip-addresses/><br/>
 题目类型：Backtracking, String<br/>
 难度评价：Medium<br/>
 

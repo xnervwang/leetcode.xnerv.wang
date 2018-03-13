@@ -1,0 +1,39 @@
+{
+	"title": "LeetCode With Python",
+	"author": "Xnerv Wang",
+	"plugins": ["anchor-navigation-ex",
+						"-highlight", "prism", "prism-themes",
+						"splitter",
+						"github",
+						"katex",
+						"sitemap",
+						"-lunr", "-search", "search-pro",
+						"tags",
+						"custom-favicon",
+						"latex-codecogs",
+						"mermaid",
+						"book-summary-scroll-position-saver",
+						"baidu"
+	],
+	"pluginsConfig": {
+		"github": {
+			"url": "https://github.com/xnervwang/leetcode-with-python.acm.vc"
+		},
+		"sitemap": {
+			"hostname": "http://leetcode-wit-python.acm.vc"
+		},
+		"prism": {
+			"css": ["prismjs/themes/prism-okaidia.css"]
+		},
+		"favicon": "assets/favicon.ico",
+		"styles": {
+			"website": "styles/website.css"
+		},
+		"anchor-navigation-ex": {
+			"showLevel": false
+		},
+		"baidu": {
+            "token": "bdb69d4b275406921c04afbc2eb99681"
+        }
+	}
+}

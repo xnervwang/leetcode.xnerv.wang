@@ -3,7 +3,7 @@ tags: Medium Problems, Backtracking, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/generate-parentheses/><br/>
-本文地址：<<leetcode-with-python-domain>/generate-parentheses/><br/>
+本文地址：<http://leetcode.xnerv.wang/generate-parentheses/><br/>
 题目类型：Backtracking, String<br/>
 难度评价：Medium<br/>
 

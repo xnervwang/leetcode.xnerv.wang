@@ -3,7 +3,7 @@ tags: Medium Problems, Backtracking
 
 ## 题目
 原题页面：<https://leetcode.com/problems/combinations/><br/>
-本文地址：<<leetcode-with-python-domain>/combinations/><br/>
+本文地址：<http://leetcode.xnerv.wang/combinations/><br/>
 题目类型：Backtracking<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Combination Sum](/combination-sum/), [(M) Permutations](/permutations/)<br/>

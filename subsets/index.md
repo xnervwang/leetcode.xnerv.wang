@@ -3,7 +3,7 @@ tags: Medium Problems, Array, Backtracking, Bit Manipulation
 
 ## 题目
 原题页面：<https://leetcode.com/problems/subsets/><br/>
-本文地址：<<leetcode-with-python-domain>/subsets/><br/>
+本文地址：<http://leetcode.xnerv.wang/subsets/><br/>
 题目类型：Array, Backtracking, Bit Manipulation<br/>
 难度评价：Medium<br/>
 

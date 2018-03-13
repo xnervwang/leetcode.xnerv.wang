@@ -3,7 +3,7 @@ tags: Medium Problems, Array
 
 ## 题目
 原题页面：<https://oj.leetcode.com/problems/spiral-matrix/><br/>
-本文地址：<<leetcode-with-python-domain>/spiral-matrix/><br/>
+本文地址：<http://leetcode.xnerv.wang/spiral-matrix/><br/>
 题目类型：Array<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Spiral Matrix II](/spiral-matrix-II/)<br/>

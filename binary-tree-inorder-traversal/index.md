@@ -3,7 +3,7 @@ tags: Medium Problems, Tree, Hash Table, Stack
 
 ## 题目
 原题页面：<https://leetcode.com/problems/binary-tree-inorder-traversal/><br/>
-本文地址：<<leetcode-with-python-domain>/binary-tree-inorder-traversal/><br/>
+本文地址：<http://leetcode.xnerv.wang/binary-tree-inorder-traversal/><br/>
 题目类型：Tree, Hash Table, Stack<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Validate Binary Search Tree](/validate-binary-search-tree/), [(M) Binary Tree Preorder Traversal](/binary-tree-preorder-traversal/), [(H) Binary Tree Postorder Traversal](/binary-tree-postorder-traversal/), [(M) Binary Search Tree Iterator](/binary-search-tree-iterator/), [(M) Kth Smallest Element in a BST](/kth-smallest-element-in-a-bst/), [(H) Closest Binary Search Tree Value II](/closest-binary-search-tree-value-ii/), [(M) Inorder Successor in BST](/inorder-successor-in-bst/)<br/>

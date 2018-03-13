@@ -3,7 +3,7 @@ tags: Easy Problems, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/count-and-say/><br/>
-本文地址：<<leetcode-with-python-domain>/count-and-say/><br/>
+本文地址：<http://leetcode.xnerv.wang/count-and-say/><br/>
 题目类型：String<br/>
 难度评价：Easy<br/>
 类似题目：[(M) Encode and Decode Strings](/encode-and-decode-strings/)<br/>

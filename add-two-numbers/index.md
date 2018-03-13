@@ -3,7 +3,7 @@ tags: Medium Problems, Linked List, Math
 
 ## 题目
 原题页面：<https://leetcode.com/problems/add-two-numbers/><br/>
-本文地址：<<leetcode-with-python-domain>/add-two-numbers/><br/>
+本文地址：<http://leetcode.xnerv.wang/add-two-numbers/><br/>
 题目类型：Linked List, Math<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Multiply Strings](/multiply-strings/), [(E) Add Binary](/add-binary/)<br/>

@@ -3,7 +3,7 @@ tags: Medium Problems, Array, Dynamic Programming
 
 ## 题目
 原题页面：<https://leetcode.com/problems/unique-paths/><br/>
-本文地址：<<leetcode-with-python-domain>/unique-paths/><br/>
+本文地址：<http://leetcode.xnerv.wang/unique-paths/><br/>
 题目类型：Array, Dynamic Programming<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Unique Paths II](/unique-paths-ii/), [(M) Minimum Path Sum](/minimum-path-sum/), [(H) Dungeon Game](/dungeon-game/)<br/>

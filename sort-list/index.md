@@ -3,7 +3,7 @@ tags: Medium Problems, Linked List, Sort
 
 ## 题目
 原题页面：<https://leetcode.com/problems/sort-list/><br/>
-本文地址：<<leetcode-with-python-domain>/sort-list/><br/>
+本文地址：<http://leetcode.xnerv.wang/sort-list/><br/>
 题目类型：Linked List, Sort<br/>
 难度评价：Medium<br/>
 类似题目：[(E) Merge Two Sorted Lists](/merge-two-sorted-lists/), [(M) Sort Colors](/sort-colors/), [(M) Insertion Sort List](/insertion-sort-list/)<br/>

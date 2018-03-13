@@ -3,7 +3,7 @@ tags: Medium Problems, Stack, String
 
 ## 题目
 原题页面：<https://oj.leetcode.com/problems/simplify-path/><br/>
-本文地址：<<leetcode-with-python-domain>/simplify-path/><br/>
+本文地址：<http://leetcode.xnerv.wang/simplify-path/><br/>
 题目类型：Stack, String<br/>
 难度评价：Medium<br/>
 

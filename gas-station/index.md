@@ -3,7 +3,7 @@ tags: Medium Problems, Greedy
 
 ## 题目
 原题页面：<https://leetcode.com/problems/gas-station/><br/>
-本文地址：<<leetcode-with-python-domain>/gas-station/><br/>
+本文地址：<http://leetcode.xnerv.wang/gas-station/><br/>
 题目类型：Greedy<br/>
 难度评价：Medium<br/>
 

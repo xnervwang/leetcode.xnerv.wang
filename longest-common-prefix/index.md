@@ -3,7 +3,7 @@ tags: Easy Problems, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/longest-common-prefix/><br/>
-本文地址：<<leetcode-with-python-domain>/longest-common-prefix/><br/>
+本文地址：<http://leetcode.xnerv.wang/longest-common-prefix/><br/>
 题目类型：String<br/>
 难度评价：Easy<br/>
 

@@ -3,7 +3,7 @@ tags: Medium Problems, Tree, Depth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/path-sum-ii/><br/>
-本文地址：<<leetcode-with-python-domain>/path-sum-ii/><br/>
+本文地址：<http://leetcode.xnerv.wang/path-sum-ii/><br/>
 题目类型：Tree, Depth-first Search<br/>
 难度评价：Medium<br/>
 类似题目：[(E) Path Sum](/path-sum/), [(E) Binary Tree Paths](/binary-tree-paths/)<br/>

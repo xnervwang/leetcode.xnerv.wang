@@ -3,7 +3,7 @@ tags: Medium Problems, Array, Two Pointers
 
 ## 题目
 原题页面：<https://leetcode.com/problems/container-with-most-water/><br/>
-本文地址：<<leetcode-with-python-domain>/container-with-most-water/><br/>
+本文地址：<http://leetcode.xnerv.wang/container-with-most-water/><br/>
 题目类型：Array, Two Pointers<br/>
 难度评价：Medium<br/>
 类似题目：[(H) Trapping Rain Water](/trapping-rain-water/)<br/>

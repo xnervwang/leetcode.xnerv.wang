@@ -3,7 +3,7 @@ tags: Hard Problems, Hash Table, Math
 
 ## 题目
 原题页面：<https://leetcode.com/problems/max-points-on-a-line/><br/>
-本文地址：<<leetcode-with-python-domain>/max-points-on-a-line/><br/>
+本文地址：<http://leetcode.xnerv.wang/max-points-on-a-line/><br/>
 题目类型：Hash Table, Math<br/>
 难度评价：Hard<br/>
 

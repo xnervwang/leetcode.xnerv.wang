@@ -3,7 +3,7 @@ tags: Hard Problems, Dynamic Programming, Backtracking, Greedy, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/wildcard-matching/><br/>
-本文地址：<<leetcode-with-python-domain>/wildcard-matching/><br/>
+本文地址：<http://leetcode.xnerv.wang/wildcard-matching/><br/>
 题目类型：Dynamic Programming, Backtracking, Greedy, String<br/>
 难度评价：Hard<br/>
 类似题目：[ (H) Regular Expression Matching](/regular-expression-matching/)<br/>

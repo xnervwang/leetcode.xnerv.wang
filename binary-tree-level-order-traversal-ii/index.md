@@ -3,7 +3,7 @@ tags: Easy Problems, Tree, Breadth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/binary-tree-level-order-traversal-ii/><br/>
-本文地址：<<leetcode-with-python-domain>/binary-tree-level-order-traversal-ii/><br/>
+本文地址：<http://leetcode.xnerv.wang/binary-tree-level-order-traversal-ii/><br/>
 题目类型：Tree, Breadth-first Search<br/>
 难度评价：Easy<br/>
 类似题目：[(E) Binary Tree Level Order Traversal](/binary-tree-level-order-traversal/)<br/>

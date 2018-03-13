@@ -3,7 +3,7 @@ tags: Easy Problems, Math, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/add-binary/><br/>
-本文地址：<<leetcode-with-python-domain>/add-binary/><br/>
+本文地址：<http://leetcode.xnerv.wang/add-binary/><br/>
 题目类型：Math, String<br/>
 难度评价：Easy<br/>
 类似题目：[(M) Add Two Numbers](/add-two-numbers/), [(M) Multiply Strings](/multiply-strings/), [(E) Plus One](/plus-one/)<br/>

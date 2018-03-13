@@ -3,7 +3,7 @@ tags: Medium Problems, Stack
 
 ## 题目
 原题页面：<https://leetcode.com/problems/evaluate-reverse-polish-notation/><br/>
-本文地址：<<leetcode-with-python-domain>/evaluate-reverse-polish-notation/><br/>
+本文地址：<http://leetcode.xnerv.wang/evaluate-reverse-polish-notation/><br/>
 题目类型：Stack<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Basic Calculator](/basic-calculator/), [(H) Expression Add Operators](/expression-add-operators/)<br/>

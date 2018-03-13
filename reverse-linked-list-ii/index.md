@@ -3,7 +3,7 @@ tags: Medium Problems, Linked List
 
 ## 题目
 原题页面：<https://leetcode.com/problems/reverse-linked-list-ii/><br/>
-本文地址：<<leetcode-with-python-domain>/reverse-linked-list-ii/><br/>
+本文地址：<http://leetcode.xnerv.wang/reverse-linked-list-ii/><br/>
 题目类型：Linked List<br/>
 难度评价：Medium<br/>
 类似题目：[(E) Reverse Linked List](/reverse-linked-list/)<br/>

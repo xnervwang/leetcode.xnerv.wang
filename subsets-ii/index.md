@@ -3,7 +3,7 @@ tags: Medium Problems, Array, Backtracking
 
 ## 题目
 原题页面：<https://leetcode.com/problems/subsets-ii/><br/>
-本文地址：<<leetcode-with-python-domain>/subsets-ii/><br/>
+本文地址：<http://leetcode.xnerv.wang/subsets-ii/><br/>
 题目类型：Array, Backtracking<br/>
 难度评价：Medium<br/>
 

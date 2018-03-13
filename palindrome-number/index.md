@@ -3,7 +3,7 @@ tags: Easy Problems, Math
 
 ## 题目
 原题页面：<https://leetcode.com/problems/palindrome-number/><br/>
-本文地址：<<leetcode-with-python-domain>/palindrome-number/><br/>
+本文地址：<http://leetcode.xnerv.wang/palindrome-number/><br/>
 题目类型：Math<br/>
 难度评价：Easy<br/>
 类似题目：[(E) Palindrome Linked List](/palindrome-linked-list/)<br/>

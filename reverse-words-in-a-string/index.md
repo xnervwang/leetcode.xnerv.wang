@@ -3,7 +3,7 @@ tags: Medium Problems, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/reverse-words-in-a-string/><br/>
-本文地址：<<leetcode-with-python-domain>/reverse-words-in-a-string/><br/>
+本文地址：<http://leetcode.xnerv.wang/reverse-words-in-a-string/><br/>
 题目类型：Medium<br/>
 难度评价：String<br/>
 类似题目：[(M) Reverse Words in a String II](/reverse-words-in-a-string-ii/)<br/>

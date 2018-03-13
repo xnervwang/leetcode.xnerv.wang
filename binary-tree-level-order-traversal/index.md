@@ -3,7 +3,7 @@ tags: Easy Problems, Tree, Breadth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/><br/>
-本文地址：<<leetcode-with-python-domain>/binary-tree-level-order-traversal/><br/>
+本文地址：<http://leetcode.xnerv.wang/binary-tree-level-order-traversal/><br/>
 题目类型：Tree, Breadth-first Search<br/>
 难度评价：Easy<br/>
 类似题目：[(M) Binary Tree Zigzag Level Order Traversal](/binary-tree-level-order-traversal/), [(E) Binary Tree Level Order Traversal II](/binary-tree-level-order-traversal-ii/), [(E) Minimum Depth of Binary Tree](/minimum-depth-of-binary-tree/)<br/>

@@ -3,7 +3,7 @@ tags: Medium Problems, Bit Manipulation
 
 ## 题目
 原题页面：<https://oj.leetcode.com/problems/single-number-ii/><br/>
-本文地址：<<leetcode-with-python-domain>/single-number-ii/><br/>
+本文地址：<http://leetcode.xnerv.wang/single-number-ii/><br/>
 题目类型：Bit Manipulation<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Single Number](/single-number/), [(M) Single Number III](/single-number-III/)<br/>

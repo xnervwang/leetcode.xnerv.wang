@@ -3,7 +3,7 @@ tags: Medium Problems, Tree, Dynamic Programming
 
 ## 题目
 原题页面：<https://leetcode.com/problems/unique-binary-search-trees/><br/>
-本文地址：<<leetcode-with-python-domain>/unique-binary-search-trees/><br/>
+本文地址：<http://leetcode.xnerv.wang/unique-binary-search-trees/><br/>
 题目类型：Tree, Dynamic Programming<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Unique Binary Search Trees II](/unique-binary-search-trees-ii/)<br/>

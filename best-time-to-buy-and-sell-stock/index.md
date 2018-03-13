@@ -3,7 +3,7 @@ tags: Medium Problems, Array, Dynamic Programming
 
 ## 题目
 原题页面：<https://leetcode.com/problems/best-time-to-buy-and-sell-stock/><br/>
-本文地址：<<leetcode-with-python-domain>/best-time-to-buy-and-sell-stock/><br/>
+本文地址：<http://leetcode.xnerv.wang/best-time-to-buy-and-sell-stock/><br/>
 题目类型：Array Dynamic Programming<br/>
 难度评价：Medium<br/>
 

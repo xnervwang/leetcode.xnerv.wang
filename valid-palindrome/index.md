@@ -3,7 +3,7 @@ tags: Easy Problems, Two Pointers, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/valid-palindrome/><br/>
-本文地址：<<leetcode-with-python-domain>/valid-palindrome/><br/>
+本文地址：<http://leetcode.xnerv.wang/valid-palindrome/><br/>
 题目类型：Two Pointers, String<br/>
 难度评价：Easy<br/>
 类似题目：[(E) Palindrome Linked List](/palindrome-linked-list/)<br/>

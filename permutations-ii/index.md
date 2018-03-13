@@ -3,7 +3,7 @@ tags: Medium Problems, Backtracking
 
 ## 题目
 原题页面：<https://leetcode.com/problems/permutations-ii/><br/>
-本文地址：<<leetcode-with-python-domain>/permutations-ii/><br/>
+本文地址：<http://leetcode.xnerv.wang/permutations-ii/><br/>
 题目类型：Backtracking<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Next Permutation](/next-permutation/), [(M) Permutations](/permutations/), [(M) Palindrome Permutation II](/palindrome-permutation-ii/)<br/>

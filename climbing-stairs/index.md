@@ -3,7 +3,7 @@ tags: Easy Problems, Dynamic Programming
 
 ## 题目
 原题页面：<https://leetcode.com/problems/climbing-stairs/><br/>
-本文地址：<<leetcode-with-python-domain>/climbing-stairs/><br/>
+本文地址：<http://leetcode.xnerv.wang/climbing-stairs/><br/>
 题目类型：Dynamic Programming<br/>
 难度评价：Easy<br/>
 

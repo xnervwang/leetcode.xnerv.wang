@@ -3,7 +3,7 @@ tags: Hard Problems, Hash Table, Linked List
 
 ## 题目
 原题页面：<https://leetcode.com/problems/copy-list-with-random-pointer/><br/>
-本文地址：<<leetcode-with-python-domain>/copy-list-with-random-pointer/><br/>
+本文地址：<http://leetcode.xnerv.wang/copy-list-with-random-pointer/><br/>
 题目类型：Hash Table, Linked List<br/>
 难度评价：Hard<br/>
 类似题目：[(M) Clone Graph](/clone-graph/)<br/>

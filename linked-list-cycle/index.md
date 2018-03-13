@@ -3,7 +3,7 @@ tags: Medium Problems, Linked List, Two Pointers
 
 ## 题目
 原题页面：<https://leetcode.com/problems/linked-list-cycle/><br/>
-本文地址：<<leetcode-with-python-domain>/linked-list-cycle/><br/>
+本文地址：<http://leetcode.xnerv.wang/linked-list-cycle/><br/>
 题目类型：Linked List, Two Pointers<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Linked List Cycle II](/linked-list-cycle-ii/)<br/>

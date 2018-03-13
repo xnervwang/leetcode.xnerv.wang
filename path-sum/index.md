@@ -3,7 +3,7 @@ tags: Easy Problems, Tree, Depth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/path-sum/><br/>
-本文地址：<<leetcode-with-python-domain>/path-sum/><br/>
+本文地址：<http://leetcode.xnerv.wang/path-sum/><br/>
 题目类型：Tree, Depth-first Search<br/>
 难度评价：Easy<br/>
 类似题目：[(M) Path Sum II](/path-sum-ii/), [(H) Binary Tree Maximum Path Sum](/binary-tree-paths/), [(M) Sum Root to Leaf Numbers](sum-root-to-leaf-numbers)<br/>

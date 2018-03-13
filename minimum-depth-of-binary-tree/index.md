@@ -3,7 +3,7 @@ tags: Easy Problems, Tree, Depth-first Search, Breadth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/minimum-depth-of-binary-tree/><br/>
-本文地址：<<leetcode-with-python-domain>/minimum-depth-of-binary-tree/><br/>
+本文地址：<http://leetcode.xnerv.wang/minimum-depth-of-binary-tree/><br/>
 题目类型：Tree, Depth-first Search, Breadth-first Search<br/>
 难度评价：Easy<br/>
 类似题目：[(E) Binary Tree Level Order Traversal](/binary-tree-level-order-traversal/), [(E) Meeting Rooms](/meeting-rooms/), [(E) Maximum Depth of Binary Tree](/maximum-depth-of-binary-tree/)<br/>

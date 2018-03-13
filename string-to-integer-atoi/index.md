@@ -3,7 +3,7 @@ tags: Easy Problems, Math, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/string-to-integer-atoi/><br/>
-本文地址：<<leetcode-with-python-domain>/string-to-integer-atoi/><br/>
+本文地址：<http://leetcode.xnerv.wang/string-to-integer-atoi/><br/>
 题目类型：Easy<br/>
 难度评价：Math, String<br/>
 类似题目：[(E) Reverse Integer](/reverse-integer/), [(H) Valid Number](/valid-number/)<br/>

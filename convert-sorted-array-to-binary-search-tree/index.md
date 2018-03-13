@@ -3,7 +3,7 @@ tags: Medium Problems, Tree, Depth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/><br/>
-本文地址：<<leetcode-with-python-domain>/convert-sorted-array-to-binary-search-tree/><br/>
+本文地址：<http://leetcode.xnerv.wang/convert-sorted-array-to-binary-search-tree/><br/>
 题目类型：Tree, Depth-first Search<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Convert Sorted List to Binary Search Tree](/convert-sorted-list-to-binary-search-tree/)<br/>

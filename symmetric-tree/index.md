@@ -3,7 +3,7 @@ tags: Easy Problems, Tree, Depth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/symmetric-tree/><br/>
-本文地址：<<leetcode-with-python-domain>/symmetric-tree/><br/>
+本文地址：<http://leetcode.xnerv.wang/symmetric-tree/><br/>
 题目类型：Tree, Depth-first Search<br/>
 难度评价：Easy<br/>
 

@@ -3,7 +3,7 @@ tags: Hard Problems, Dynamic Programming, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/edit-distance/><br/>
-本文地址：<<leetcode-with-python-domain>/edit-distance/><br/>
+本文地址：<http://leetcode.xnerv.wang/edit-distance/><br/>
 题目类型：Dynamic Programming, String<br/>
 难度评价：Hard<br/>
 类似题目：[(M) One Edit Distance](/one-edit-distance/)<br/>

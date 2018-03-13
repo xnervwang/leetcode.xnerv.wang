@@ -3,7 +3,7 @@ tags: Medium Problems, Array, Two Pointers, Sort
 
 ## 题目
 原题页面：<https://oj.leetcode.com/problems/sort-colors/><br/>
-本文地址：<<leetcode-with-python-domain>/sort-colors/><br/>
+本文地址：<http://leetcode.xnerv.wang/sort-colors/><br/>
 题目类型：Array, Two Pointers, Sort<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Sort List](/sort-list/), [(M) Wiggle Sort](/wiggle-sort/)<br/>

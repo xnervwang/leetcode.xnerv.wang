@@ -3,7 +3,7 @@ tags: Medium Problems, Tree, Depth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/sum-root-to-leaf-numbers/><br/>
-本文地址：<<leetcode-with-python-domain>/sum-root-to-leaf-numbers/><br/>
+本文地址：<http://leetcode.xnerv.wang/sum-root-to-leaf-numbers/><br/>
 题目类型：Tree, Depth-first Search<br/>
 难度评价：Medium<br/>
 类似题目：[(E) Path Sum](/path-sum/), [(H) Binary Tree Maximum Path Sum](/binary-tree-maximum-path-sum/)<br/>

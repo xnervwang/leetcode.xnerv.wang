@@ -3,7 +3,7 @@ tags: Medium Problems, Tree, Depth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/flatten-binary-tree-to-linked-list/><br/>
-本文地址：<<leetcode-with-python-domain>/flatten-binary-tree-to-linked-list/><br/>
+本文地址：<http://leetcode.xnerv.wang/flatten-binary-tree-to-linked-list/><br/>
 题目类型：Tree, Depth-first Search<br/>
 难度评价：Medium<br/>
 

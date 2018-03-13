@@ -3,7 +3,7 @@ tags: Hard Problems, Tree, Depth-first Search
 
 ## 题目
 原题页面：<https://leetcode.com/problems/binary-tree-maximum-path-sum/><br/>
-本文地址：<<leetcode-with-python-domain>/binary-tree-maximum-path-sum/><br/>
+本文地址：<http://leetcode.xnerv.wang/binary-tree-maximum-path-sum/><br/>
 题目类型：Tree, Depth-first Search<br/>
 难度评价：Hard<br/>
 类似题目：[(M) Path Sum](/path-sum/), [(M) Sum Root to Leaf Numbers](sum-root-to-leaf-numbers)<br/>

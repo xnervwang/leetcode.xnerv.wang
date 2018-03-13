@@ -3,7 +3,7 @@ tags: Easy Problems, Math, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/roman-to-integer/><br/>
-本文地址：<<leetcode-with-python-domain>/roman-to-integer/><br/>
+本文地址：<http://leetcode.xnerv.wang/roman-to-integer/><br/>
 题目类型：Math, String<br/>
 难度评价：Easy<br/>
 类似题目：[(M) Integer to Roman](/integer-to-roman/)<br/>

@@ -3,7 +3,7 @@ tags: Hard Problems, Array, Binary Search
 
 ## 题目
 原题页面：<https://oj.leetcode.com/problems/search-in-rotated-sorted-array/><br/>
-本文地址：<<leetcode-with-python-domain>/search-in-rotated-sorted-array/><br/>
+本文地址：<http://leetcode.xnerv.wang/search-in-rotated-sorted-array/><br/>
 题目类型：Array, Binary Search<br/>
 难度评价：Hard<br/>
 类似题目：[(M) Search in Rotated Sorted Array II](/search-in-rotated-sorted-array-II/), [(M) Find Minimum in Rotated Sorted Array](/find-minimum-in-rotated-sorted-array/)<br/>

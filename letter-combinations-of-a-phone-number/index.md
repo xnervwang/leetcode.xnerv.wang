@@ -3,7 +3,7 @@ tags: Medium Problems, Backtracking, String
 
 ## 题目
 原题页面：<https://leetcode.com/problems/letter-combinations-of-a-phone-number/><br/>
-本文地址：<<leetcode-with-python-domain>/letter-combinations-of-a-phone-number/><br/>
+本文地址：<http://leetcode.xnerv.wang/letter-combinations-of-a-phone-number/><br/>
 题目类型：Backtracking, String<br/>
 难度评价：Medium<br/>
 类似题目：[(M) Generate Parentheses](/generate-parentheses/), [(M) Combination Sum](/combination-sum/)<br/>

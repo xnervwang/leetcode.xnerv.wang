@@ -3,7 +3,7 @@ tags: Easy Problems, Array, Math
 
 ## 题目
 原题页面：<https://leetcode.com/problems/plus-one/><br/>
-本文地址：<<leetcode-with-python-domain>/plus-one/><br/>
+本文地址：<http://leetcode.xnerv.wang/plus-one/><br/>
 题目类型：Array, Math<br/>
 难度评价：Easy<br/>
 类似题目：[(M) Multiply Strings](/multiply-strings/), [(E) Add Binary](/add-binary/)<br/>

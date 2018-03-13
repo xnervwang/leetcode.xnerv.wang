@@ -3,7 +3,7 @@ tags: Hard Problems, Array, Sort
 
 ## 题目
 原题页面：<https://leetcode.com/problems/merge-intervals/><br/>
-本文地址：<<leetcode-with-python-domain>/merge-intervals/><br/>
+本文地址：<http://leetcode.xnerv.wang/merge-intervals/><br/>
 题目类型：Array, Sort<br/>
 难度评价：Hard<br/>
 类似题目：[(H) Insert Interval](/insert-interval/), [(E) Meeting Rooms](/meeting-rooms/), [(M) Meeting Rooms II](/meeting-rooms-ii/)<br/>

@@ -3,7 +3,7 @@ tags: Hard Problems, Math, String
 
 ## 题目
 原题页面：<https://oj.leetcode.com/problems/valid-number/><br/>
-本文地址：<<leetcode-with-python-domain>/valid-number/><br/>
+本文地址：<http://leetcode.xnerv.wang/valid-number/><br/>
 题目类型：Math, String<br/>
 难度评价：hard<br/>
 类似题目：[(E) String to Integer (atoi)](/string-to-integer-atoi/)<br/>

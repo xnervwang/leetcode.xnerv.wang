@@ -17,10 +17,10 @@
 	],
 	"pluginsConfig": {
 		"github": {
-			"url": "https://github.com/xnervwang/leetcode-with-python.acm.vc"
+			"url": "https://github.com/xnervwang/leetcode.xnerv.wang"
 		},
 		"sitemap": {
-			"hostname": "http://leetcode-wit-python.acm.vc"
+			"hostname": "http://leetcode.xnerv.wang"
 		},
 		"prism": {
 			"css": ["prismjs/themes/prism-okaidia.css"]

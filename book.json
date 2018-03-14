@@ -1,8 +1,7 @@
 {
 	"title": "LeetCode With Python",
 	"author": "Xnerv Wang",
-	"plugins": ["custom-favicon",
-						"anchor-navigation-ex",
+	"plugins": ["anchor-navigation-ex",
 						"-highlight", "prism", "prism-themes",
 						"splitter",
 						"github",

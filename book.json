@@ -12,7 +12,8 @@
 						"latex-codecogs",
 						"mermaid",
 						"book-summary-scroll-position-saver",
-						"baidu"
+						"baidu",
+						"localized-footer"
 	],
 	"pluginsConfig": {
 		"github": {
@@ -33,6 +34,10 @@
 		},
 		"baidu": {
             "token": "bdb69d4b275406921c04afbc2eb99681"
-        }
+        },
+		"localized-footer": {
+			"hline": true,
+			"filename": "./FOOTER.md"
+		}
 	}
 }

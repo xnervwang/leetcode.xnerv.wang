@@ -7,13 +7,13 @@
 						"github",
 						"katex",
 						"sitemap",
+						"localized-footer",
 						"-lunr", "-search", "search-pro",
 						"tags",
 						"latex-codecogs",
 						"mermaid",
 						"book-summary-scroll-position-saver",
-						"baidu",
-						"localized-footer"
+						"baidu"
 	],
 	"pluginsConfig": {
 		"github": {
@@ -25,6 +25,10 @@
 		"prism": {
 			"css": ["prismjs/themes/prism-okaidia.css"]
 		},
+		"localized-footer": {
+			"hline": true,
+			"filename": "./FOOTER.md"
+		},
 		"favicon": "assets/favicon.ico",
 		"styles": {
 			"website": "styles/website.css"
@@ -34,10 +38,6 @@
 		},
 		"baidu": {
             "token": "bdb69d4b275406921c04afbc2eb99681"
-        },
-		"localized-footer": {
-			"hline": true,
-			"filename": "./FOOTER.md"
-		}
+        }
 	}
 }

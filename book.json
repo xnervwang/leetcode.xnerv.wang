@@ -27,7 +27,7 @@
 		},
 		"localized-footer": {
 			"hline": true,
-			"filename": "./FOOTER.md"
+			"filename": "FOOTER.md"
 		},
 		"favicon": "assets/favicon.ico",
 		"styles": {

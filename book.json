@@ -3,7 +3,7 @@
 	"author": "Xnerv Wang",
 	"plugins": ["anchor-navigation-ex",
 						"-highlight", "prism", "prism-themes",
-						"localized-footer",
+						"footer",
 						"splitter",
 						"github",
 						"katex",
@@ -38,6 +38,9 @@
 		},
 		"baidu": {
             "token": "bdb69d4b275406921c04afbc2eb99681"
-        }
+        },
+		"layout": {
+			"footerPath" : "layouts/footer.html"
+		}
 	}
 }
